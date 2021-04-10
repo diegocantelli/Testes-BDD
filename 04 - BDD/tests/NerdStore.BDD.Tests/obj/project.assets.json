@@ -7704,11 +7704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\04 - BDD\\tests\\NerdStore.BDD.Tests\\NerdStore.BDD.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\04 - BDD\\tests\\NerdStore.BDD.Tests\\NerdStore.BDD.Tests.csproj",
       "projectName": "NerdStore.BDD.Tests",
-      "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\04 - BDD\\tests\\NerdStore.BDD.Tests\\NerdStore.BDD.Tests.csproj",
+      "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\04 - BDD\\tests\\NerdStore.BDD.Tests\\NerdStore.BDD.Tests.csproj",
       "packagesPath": "C:\\Users\\pc-cantelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\04 - BDD\\tests\\NerdStore.BDD.Tests\\obj\\",
+      "outputPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\04 - BDD\\tests\\NerdStore.BDD.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

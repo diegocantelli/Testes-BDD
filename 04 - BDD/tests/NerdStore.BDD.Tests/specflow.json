@@ -1,8 +1,8 @@
 ﻿{
-    "bindingCulture":
-    {
-        "language" :"pt-br"
-    },
+  "bindingCulture": {
+    //configurando o spec flow para entender o idioma português
+    "language": "pt-br"
+  },
     "language":
     {
         "feature": "pt-br"

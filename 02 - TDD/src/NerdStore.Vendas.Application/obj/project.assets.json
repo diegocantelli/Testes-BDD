@@ -905,11 +905,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+      "projectUniqueName": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
       "projectName": "NerdStore.Vendas.Application",
-      "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+      "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
       "packagesPath": "C:\\Users\\pc-cantelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Application\\obj\\",
+      "outputPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -928,11 +928,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-              "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+              "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj"
             },
-            "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
-              "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes(TDD,BDD,Integrado etc)\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+            "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+              "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\Testes-TDD-BDD-Integrado\\Desenvolvedor.io\\BDD\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
             }
           }
         }
