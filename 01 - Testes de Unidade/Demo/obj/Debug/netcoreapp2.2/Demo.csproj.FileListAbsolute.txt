@@ -4,3 +4,6 @@ C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\
 C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
 C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
 C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.runtimeconfig.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.runtimeconfig.dev.json

@@ -5937,6 +5937,7 @@
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
       "SpecFlow >= 3.7.38",
+      "SpecFlow.Tools.MsBuild.Generation >= 3.7.38",
       "SpecFlow.xUnit >= 3.7.38"
     ]
   },
@@ -5988,6 +5989,10 @@
             "autoReferenced": true
           },
           "SpecFlow": {
+            "target": "Package",
+            "version": "[3.7.38, )"
+          },
+          "SpecFlow.Tools.MsBuild.Generation": {
             "target": "Package",
             "version": "[3.7.38, )"
           },
