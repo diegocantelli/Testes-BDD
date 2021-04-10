@@ -1,0 +1,6 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csprojAssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\Testes(TDD,BDD,Integrado etc)\Desenvolvedor.io\BDD\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
