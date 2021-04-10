@@ -5,6 +5,8 @@ Funcionalidade: Pedido - Adicionar Item ao Carrinho
 	Eu desejo colocar um item no carrinho
 	Para que eu possa comprá-lo posteriormente
 
+
+#Descrevendo um cenário
 Cenário: Adicionar item com sucesso a um novo pedido
 Dado Que um produto esteja na vitrine
 E Esteja disponivel no estoque
