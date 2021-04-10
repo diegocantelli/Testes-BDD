@@ -8,10 +8,16 @@ Funcionalidade: Pedido - Adicionar Item ao Carrinho
 
 #Descrevendo um cenário
 Cenário: Adicionar item com sucesso a um novo pedido
+
+#Dado-> Arrange
 Dado Que um produto esteja na vitrine
 E Esteja disponivel no estoque
 E O usuario esteja logado
+
+#Quando -> Act
 Quando O usuário adicionar uma unidade ao carrinho
+
+#Então -> Assert
 Então O usuário será redirecionado ao resumo da compra
 E O valor total do pedido será exatamente o valor do item adicionado
 
