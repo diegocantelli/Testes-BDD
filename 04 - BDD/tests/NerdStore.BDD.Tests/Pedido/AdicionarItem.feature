@@ -1,4 +1,7 @@
-﻿#Funcionalidade -> é necessário usar esta palavra chave para poder descrever uma funcionalidade de forma que seja capaz
+﻿#Gerando os testes com base nos cenários
+# Clicar com o direito -> Generate Step definitions
+
+#Funcionalidade -> é necessário usar esta palavra chave para poder descrever uma funcionalidade de forma que seja capaz
 #	do SpecFlow entender
 Funcionalidade: Pedido - Adicionar Item ao Carrinho
 	Como um usuário
