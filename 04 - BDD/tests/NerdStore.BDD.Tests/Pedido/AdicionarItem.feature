@@ -1,4 +1,6 @@
-﻿Funcionalidade: Pedido - Adicionar Item ao Carrinho
+﻿#Funcionalidade -> é necessário usar esta palavra chave para poder descrever uma funcionalidade de forma que seja capaz
+#	do SpecFlow entender
+Funcionalidade: Pedido - Adicionar Item ao Carrinho
 	Como um usuário
 	Eu desejo colocar um item no carrinho
 	Para que eu possa comprá-lo posteriormente
